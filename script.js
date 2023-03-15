@@ -16,6 +16,4 @@
     };
  });
 
-// first commit
 
-// min thu khaing is trying to be a programmer.
