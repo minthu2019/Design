@@ -128,7 +128,7 @@ section{
 
 /* css for home html */
 .home {
-    background: url('../Design/Picture/Mountain.jpg') no-repeat rgba(0,0,0,.5); /*background image picture*/
+    background: url('../Design/Picture/LoginFormBackground.PNG') no-repeat rgba(0,0,0,.5); /*background image picture*/
     background-position: center;  
     background-attachment: fixed;
     background-size: cover;
